@@ -1,0 +1,37 @@
+{
+  "name": "alert_dialog_sample",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorBarbosa/alert-dialog.git"
+  },
+  "keywords": [
+    "alert",
+    "dialog"
+  ],
+  "author": "victor barbosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorBarbosa/alert-dialog/issues"
+  },
+  "dependencies": {
+    "jquery": "^2.2.4"
+  
+  },
+  "exclude": [
+    "wwwroot",
+    "node_modules"
+  ],
+  "devDependencies": {
+     "gulp": "3.9.1",
+    "gulp-concat": "2.5.2",
+    "gulp-cssmin": "0.1.7",
+    "gulp-uglify": "1.2.0",
+    "rimraf": "2.2.8"
+  },
+  
+}
